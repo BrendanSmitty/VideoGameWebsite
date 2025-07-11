@@ -1,0 +1,156 @@
+body {
+	margin: 0;
+	font-family: Arial, Geneva, Helvetica, sans-serif;
+	background: repeating-linear-gradient(
+        30deg,
+        #cfcfcf,
+        #cfcfcf 5px,
+        #8db5d3 5px,
+        #8db5d3 10px
+      );
+}
+
+header, nav {
+	width: 100%;
+	margin: auto;
+}
+
+header {
+	height: 100px;
+	background-image: url(images/game-banner.jpg);
+	background-color: #c8e4ee;
+	background-repeat: round;
+	background-position: left;
+	background-size: 500px;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+}
+
+header div {
+	display: block;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+nav {
+	height: 40px;
+	/*border-bottom: 5px solid #999999;*/
+}
+
+nav a {
+	color: #ffffff;
+	background-color: #8593a1;
+	display: block;
+	width: 20%;
+	height: 40px;
+	float: left;
+	text-align: center;
+	line-height: 40px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav a:hover {
+	background-color: #7ebffc;
+}
+
+#indexNav {
+	border-bottom: 4px solid #555555;
+	background-color: #eb8e43;
+}
+
+#contactNav {
+	border-bottom: 4px solid #555555;
+	background-color: #eb8e43;
+}
+
+#productsNav {
+	border-bottom: 4px solid #555555;
+	background-color: #eb8e43;
+}
+
+#supportNav {
+	border-bottom: 4px solid #555555;
+	background-color: #eb8e43;
+}
+
+#referencesNav {
+	border-bottom: 4px solid #555555;
+	background-color: #eb8e43;
+}
+
+section {
+	background-color: #6794ce;
+	color: #ffffff;
+	text-align: justify;
+	box-shadow: 0 0 15px #eb8e43;
+	border-radius: 10px;
+	width: 1250px;
+	margin: 10px auto;
+}
+
+.mainContent h1 {
+	text-align: center;
+}
+
+aside {
+	float: right;
+	width: 250px;
+	/* background-color: #2d3b40; */
+	padding: 20px;
+	border: 5px solid #555555;
+	border-radius: 8px;
+	margin: 40px;
+	text-align: left;
+}
+
+footer {
+	background-color: #367bbd;
+	color: #ffffff;
+	border-top: 4px solid #8593a1;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	width: 100%;
+	height: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+
+}
+
+div.mainContent {
+	width: 850px;
+	float: left;
+	padding: 10px;
+	display: block;
+}
+
+.mainContent img {
+	width: 25em;
+	float: left;
+	margin: 15px;
+}
+
+.Game {
+	display: flex;
+}
+
+.gamefactsURL {
+	font-size: small;
+}
+
+div.clearFix {
+	clear: both;
+}
+
+.refPage {
+	width: 900px;
+	padding: 10px;
+}
