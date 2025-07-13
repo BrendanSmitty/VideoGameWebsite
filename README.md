@@ -12,4 +12,4 @@ HTML | CSS | University Assignment
   - CSS
 
 ## View Website:
-[https://brendansmitty.github.io/FCBWebsite/](https://brendansmitty.github.io/VideoGameWebsite/)
+https://brendansmitty.github.io/VideoGameWebsite/
