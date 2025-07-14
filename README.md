@@ -5,6 +5,7 @@
 ## Description:
 #### Video Game Website
 HTML | CSS | University Assignment
+
 Designed and developed a responsive website showcasing top video games across categories like single-player, multiplayer, and split-screen titles. Implemented interactive features including navigation highlighting, hover animations, and categorized content displays with CSS transitions. Created as a university assignment to demonstrate front-end development skills with semantic HTML and custom CSS styling.
 
 ## Technologies used:
